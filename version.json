@@ -18,7 +18,7 @@ report_issue_url = 'https://github.com/daye10/dokkan-battle-farm-bot-app/issues'
   "bot_app_version": "alpha-2.0.0",
   "client": "global",
   "gb_version": {
-    'android': "5.7.1",
+    "android": "5.7.1",
   },
 
 }
